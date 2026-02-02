@@ -8,7 +8,7 @@
 Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog porst.
 
 If you are a maintainer of open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so that people can find it.
-
+fgb
 If you are not a programmer but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
 If you would like to be guided through how to contribute to a repository on GitH5ub, check out [the First Contributions repository](https://github.com/firstcontributions/first-contributions).
