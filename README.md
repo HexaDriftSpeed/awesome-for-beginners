@@ -4,7 +4,7 @@
 ||Languages|
 |--|--|
 |Misc|[.NET](#net)|
-|A|[Angular](#angular), [Ansible](#ansible)|
+|A|[Angular](#angular), [Ansible](#ansible)|fdhg
 |C|[C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure), [CSS](#css)|
 |D|[Dart](#dart)|
 |E|[Elixir](#elixir), [Elm](#elm)|
